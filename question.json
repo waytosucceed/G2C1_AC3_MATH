@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "They brought sandwiches for the picnic. Count the sandwiches by 2s and tell how many sandwiches are there?<br><img width='70%' src='./images/15.jpg'>",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Count the drinks they brought for the picnic by 2s and find how many drinks are there?<br><img width='70%' src='./images/16.jpg'>",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3",
+        "question": "They packed pieces of cheesecake for the picnic. Count the cheesecake pieces by 2s and tell how many pieces are there?<br><img width='70%' src='./images/17.jpg'>",
+        "options": [
+            "8",
+            "12",
+            "10",
+            "14"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Lucy’s friends decided to count the apples in their basket by 2s. How many apples do they have?<br><img width='70%' src='./images/18.jpg'>",
+        "options": [
+            "10",
+            "12",
+            "11",
+            "14"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Lucy and her friends saw butterflies in the park. Count the butterflies by 2s and find how many butterflies they spotted.<br><img width='70%' src='./images/19.jpg'>",
+        "options": [
+            "10",
+            "12",
+            "16",
+            "14"
+        ],
+        "correct": 3
+    }
+]

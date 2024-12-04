@@ -1,0 +1,38 @@
+[
+  {
+    "questionNo": 1,
+    "question": "They saw a frog jumping on the grass. Skip count by 2’s and complete the number line.",
+    "options":["10","","14","16","","20","","24","26","28"],
+    "answers": ["10","12","14","16","18","20","22","24","26","28"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "They saw trees in the park. Count forward the trees by 2s and fill in the missing numbers.",
+    "options":["","28","","32","34","","38","40","","44"],
+    "answers": ["26","28","30","32","34","36","38","40","42","44"],
+    "secondImg":"./images/1.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Skip count by 2s and fill in the empty boxes to complete the number line.",
+    "options":["56","58","","","64","","","70","72","74"],
+    "answers": ["56","58","60","62","64","66","68","70","72","74"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "As they walk to the park, they see flowers. Skip count by 2s to fill in the missing numbers.",
+    "options":["","76","78","","82","","86","","90","92"],
+    "answers": ["74","76","78","80","82","84","86","88","90","92"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "They spot benches along the path. Skip count by 2’s and complete the number line.",
+    "options":["62","","66","68","","","74","","78","80"],
+    "answers": ["62","64","66","68","70","72","74","76","78","80"],
+    "secondImg":"./images/1.jpg"
+  }
+]
